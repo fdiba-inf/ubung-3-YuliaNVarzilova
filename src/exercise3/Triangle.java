@@ -27,7 +27,7 @@ public class Triangle {
               System.out.println("Triangle: scalene");
             }
           } else {
-            System.out.println("Values are not correct");
+            System.out.println("Values are not correct!");
           }
 
          }while(a > 0 && b > 0 && c > 0);
